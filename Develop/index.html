@@ -3,14 +3,18 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+
+    <!-- Replaced "website" with the company name -->
+    <title>Horiseon</title>
 </head>
 
+<!-- Web Page Content Starts Here -->
 <body>
-    <div class="header">
+    <header class="header"> <!-- header instead of div -->
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
+            <!-- Unordered list of menu items -->
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -23,10 +27,11 @@
                 </li>
             </ul>
         </div>
-    </div>
+    </header>
     <div class="hero"></div>
     <div class="content">
-        <div class="search-engine-optimization">
+        <!-- inserted id attribute for search-engine-optimization below -->
+        <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -71,12 +76,12 @@
             </p>
         </div>
     </div>
-    <div class="footer">
+    <footer class="footer">  <!-- replaced from div to footer -->
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>
