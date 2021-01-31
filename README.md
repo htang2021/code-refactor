@@ -12,6 +12,13 @@ This project is to refactor the html and css code that meets Horiseon's acceptan
 
 # Mock-up image of Horiseon Home Page
 Mock-up image of the site is as follows:
-<img src="./codefactor-mockup.png" alt="Horiseon Home Page Mock-up" />
+<img src="codefactor-mockup.png" alt="Horiseon Home Page Mock-up" />
+
+# Github Repository
+All files and changes made are located on github at the following location:
+
+https://github.com/htang2021/code-refactor
+
+A copy of this README.md file is also at the github location.
 
 
