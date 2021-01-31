@@ -5,10 +5,12 @@
     margin: 0;
 }
 
+/* Setting page background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header menu bar bgcolor and font color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Heading Horiseon of the page */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* font contrast to have letters SEO stand out */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Setting menu items their box attribute values */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,20 +42,19 @@ body {
     list-style-type: none;
 }
 
+/* Set list items inline */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Set properties for all anchors */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* Hero image URL & properties */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +64,31 @@ p {
     background-position: center;
 }
 
+/* Set font size for all paragraph elements */
+p {
+    font-size: 16px;
+}
+
+/* A class to place the image to the left of the container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* A class to place the image to the right of the container */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Main content container properties */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Aside container properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
