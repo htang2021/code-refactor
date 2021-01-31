@@ -14,7 +14,7 @@ This project is to refactor the html and css code that meets Horiseon's acceptan
 # Mock-up image of Horiseon Home Page
 Mock-up image of the site is as follows:
 
-![](docs/images/Horiseon-mockup.png)
+![](images/Horiseon-mockup.png)
 
 # Github Repository
 All files and changes made are located on github at the following location:
@@ -32,10 +32,10 @@ This instruction below assumes that a project and repo were created early on and
 1. Login to github and go to the project repo (https://github.com/htang2021/code-refactor).
 
 2. Click on "Settings" in the repo menu, also shown in the screenshot below:
-![](docs/images/repo-settings.png)
+![](images/repo-settings.png)
 
 3. Scroll down to the GitHub Pages section and select branch where the site will be built from, will either be "master" or "main" and with folder in /root.  Click on "Save" button next to it.  Screen shot below for reference:
-![](docs/images/repo-settings-buildsite.png)
+![](images/repo-settings-buildsite.png)
 
 4. As shown in the image from 3, if saved successfully, GitHub will return a live site URL:
 https://htang2021.github.io/code-refactor/
